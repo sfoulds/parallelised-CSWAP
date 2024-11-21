@@ -1,3 +1,6 @@
+##############################
+#### Code by Steph Foulds ####
+##############################
 from __future__ import division
 from scipy.integrate import ode
 from scipy import sparse
