@@ -1,3 +1,6 @@
+######################################################
+#### Thank you Gerard Pelegri for the base code! #####
+######################################################
 import numpy as np
 import scipy as scp
 from scipy.optimize import minimize_scalar,minimize
